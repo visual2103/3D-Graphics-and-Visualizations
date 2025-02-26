@@ -1,5 +1,5 @@
 # 3D-Graphics-and-Visualizations
-MyVillage - 3D OpenGL Scene 🌄🎮
+
 
 Overview
 
