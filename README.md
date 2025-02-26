@@ -24,26 +24,6 @@ MyVillage is a **real-time 3D graphics project** built with **OpenGL, GLFW, and 
 - `Mouse` – Adjust camera view  
 - `Esc` – Exit the application  
 
-## **Installation & Running** ⚡
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/MyVillage.git
-   cd MyVillage
-   ```
-2. **Install dependencies**  
-   - Ensure **GLFW**, **GLEW**, and a C++ compiler are installed  
-   - On Linux, install with:  
-     ```bash
-     sudo apt install libglfw3-dev libglew-dev
-     ```
-3. **Build and run**  
-   ```bash
-   mkdir build && cd build
-   cmake ..
-   make
-   ./MyVillage
-   ```
-
 ## **Screenshots** 📸
 *(Add images showcasing your 3D scene here!)*  
 
@@ -51,8 +31,6 @@ MyVillage is a **real-time 3D graphics project** built with **OpenGL, GLFW, and 
 - ✅ Particle effects (fire, smoke)  
 - ✅ Physics enhancements (collision detection)  
 - ✅ More detailed textures and normal mapping  
-
-## **License** 📜
-*(Specify your preferred license: MIT, GPL, Apache, etc.)*  
+  
 
 ---
