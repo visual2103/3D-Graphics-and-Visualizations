@@ -3,8 +3,7 @@
 ## **Overview**
 MyVillage is a **real-time 3D graphics project** built with **OpenGL, GLFW, and GLEW**. It features an interactive scene with camera movement, realistic lighting, textures, and model rendering.
 
-![Uploading MacaveiAlina_gr30234_scr.png…]()
-
+<img width="954" alt="MacaveiAlina_gr30234_scr" src="https://github.com/user-attachments/assets/1e9ac988-2024-4a06-a9f2-e6b03ca10868" />
 
 ## **Features** 🚀
 - 🏡 **3D Scene Rendering** – A fully designed village environment  
