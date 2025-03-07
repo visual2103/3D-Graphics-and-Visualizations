@@ -1,4 +1,4 @@
-# **MyVillage - 3D OpenGL Scene** 🌄🎮
+# **MyVillage - 3D OpenGL Scene** 
 
 ## **Overview**
 MyVillage is a **real-time 3D graphics project** built with **OpenGL, GLFW, and GLEW**. It features an interactive scene with camera movement, realistic lighting, textures, and model rendering.
