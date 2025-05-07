@@ -26,9 +26,6 @@ MyVillage is a **real-time 3D graphics project** built with **OpenGL, GLFW, and 
 - `Mouse` – Adjust camera view  
 - `Esc` – Exit the application  
 
-## **Screenshots** 📸
-*(Add images showcasing your 3D scene here!)*  
-
 ## **Future Improvements** ✨
 - ✅ Particle effects (fire, smoke)  
 - ✅ Physics enhancements (collision detection)  
